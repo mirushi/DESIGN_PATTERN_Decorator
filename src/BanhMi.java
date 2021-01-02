@@ -1,5 +1,3 @@
-import java.util.List;
-
 public abstract class BanhMi {
     protected String tenBanhMi;
     protected Double giaBanhMi;
